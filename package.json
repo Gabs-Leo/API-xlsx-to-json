@@ -5,6 +5,9 @@
   "repository": "https://github.com/Gabs-Leo/API-xlsx-to-json.git",
   "author": "Gabs",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "@types/cors": "^2.8.13",
     "@types/express": "^4.17.17",
